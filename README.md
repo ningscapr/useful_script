@@ -1,6 +1,6 @@
 ## boardcast.py
 broadcast images in two files to two video
-![broadcast]('./img/broadcast.png')
+![broadcast]('https://github.com/ningscapr/useful_script/blob/master/img/broadcast.png')
 
 ## write.py
 write frames into a video
