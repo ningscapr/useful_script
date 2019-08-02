@@ -23,3 +23,6 @@ shuffle the lines in one file
 
 ## test_size_img.py
 test the size of one image whether equal to 512*440
+
+## rename.py
+follow the sort sequence to rename the file name
