@@ -3,8 +3,14 @@ broadcast images in two files to two video
 
 ![broadcast](https://github.com/ningscapr/useful_script/blob/master/img/broadcast.png)
 
-## write.py
+## img2video.py
 write frames into a video
+
+## video2img.py
+convert video to images--python version
+
+## img2video.m
+write frames into a video--matlab version
 
 ## concate.py
 concate three images, groundtruth, label and the predicted images
