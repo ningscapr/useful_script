@@ -32,3 +32,6 @@ test the size of one image whether equal to 512*440
 
 ## rename.py
 follow the sort sequence to rename the file name
+
+## guided_filter.py
+add the guided filter python implementation
