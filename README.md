@@ -35,3 +35,6 @@ follow the sort sequence to rename the file name
 
 ## guided_filter.py
 add the guided filter python implementation
+
+## merge.py and split.py
+merge three RGB channels into one channel and split RGB into three
